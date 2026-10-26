@@ -1,8 +1,8 @@
-!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>My Resume</title>
+
 </head>
 <body>
 <!-- Heading: write your own name -->
